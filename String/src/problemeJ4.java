@@ -7,6 +7,19 @@ public class problemeJ4
 
 		public static void main(String[] args)
 			{
+				public static void main(String[] args) 
+					{
+				        int cpt = 0;
+				        for (int i = 0; i < a; i++)
+				        	{
+				            	if 
+				            {
+				                cpt++;
+				            }
+				        }
+				        System.out.println(cpt);
+				    }
+				
 				
 			}
 
