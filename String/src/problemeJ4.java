@@ -12,7 +12,7 @@ public class problemeJ4
 				        int cpt = 0;
 				        for (int i = 0; i < a; i++)
 				        	{
-				            	if 
+				            	if  
 				            {
 				                cpt++;
 				            }

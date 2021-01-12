@@ -17,7 +17,7 @@ public class problemeJ2
 
 		        for (int i = 0; i < characters.length(); i++)
 		        {  happy++;
-		                
+		                 
 		           			{
 		                        sad++;
 		                    }
