@@ -22,7 +22,7 @@ public class problemeJ2
 		        	if (joyeuse == 0 && triste == 0) 
 		        		{
 		        			System.out.println("aucune");
-		        		} 	
+		        		} 	 
 		        	else if (joyeuse == triste)
 		        		{
 		            		System.out.println("incertaine");
