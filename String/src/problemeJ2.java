@@ -13,7 +13,7 @@ public class problemeJ2
 		        char [] ab=a.toCharArray();
 		        for (int i = 0; i < ab.length; i++)
 		        {  
-		        	if(ab[i]==':'&& ab[i+1]=='-')
+		        	if(ab[i]==':'&& ab[i+1]=='-') 
 		        		if(ab[i+2]==')')
 		        			joyeuse++;
 		        		else if(ab[i+2]=='(')
