@@ -19,7 +19,7 @@ public class problemeJ2
 		        		else if(ab[i+2]=='(')
 		                    triste++;
 		        }
-		        	if (joyeuse == 0 && triste == 0)
+		        	if (joyeuse == 0 && triste == 0) 
 		        		{
 		        			System.out.println("aucune");
 		        		} 	
